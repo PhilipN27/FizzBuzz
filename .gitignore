@@ -78,6 +78,7 @@ nb-configuration.xml
 ##############################
 .vscode/
 .code-workspace
+ALL_OF_MY_PASSWORDS.txt
 
 ##############################
 ## OS X
